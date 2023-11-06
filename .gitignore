@@ -1,0 +1,13 @@
+data_model_backup.js
+node_modules/*
+db_details_personal.json
+
+dummy_data/*
+
+.env
+
+task_analytics.js
+
+.history
+
+*.DS_Store
